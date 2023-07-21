@@ -1,7 +1,7 @@
 :root{
-    --red: red;                       /* crimson; */
+    --red: red;                       
    --green:#53BF9D;
-   --yellow:#FFC54D;                  /*  #FFC54D; */   
+   --yellow:#FFC54D;                   
    --white:whitesmoke;
 }
 
@@ -63,7 +63,6 @@ header h2 i,nav a i{
    height:50vh;
    justify-content: center;
    padding:2.5em;
-   /*padding-top: 1.5em;*/
    text-align: center;
 }
 
